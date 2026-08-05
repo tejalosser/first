@@ -1,1 +1,1 @@
-print('hi') 
+ECHO is on.
